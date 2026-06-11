@@ -1,7 +1,7 @@
 # Undercooked 正经厨房
 Love playing Overcooked but do not actually want to overcook? Checkout the Undercooked recipes by star chef LYX aka Hazel! Just kidding, they are all good recipes that made me gain weight.
 
-超级喜欢玩《胡闹厨房》但是不想做糊弄饭？做过路过不要错过，明星厨师，也就是本人的正经菜谱！中国人不骗中国人，可以把隔壁小孩香晕。
+超级喜欢玩《胡闹厨房》但是不想真的做糊弄饭？走过路过不要错过，明星厨师，也就是本人的正经菜谱！中国人不骗中国人，可以把隔壁小孩香晕。
 
 Try the interactive prompt:
 
